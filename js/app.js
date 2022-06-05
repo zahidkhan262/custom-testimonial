@@ -1,4 +1,4 @@
-import { testimonial } from './js/data.js'
+import { testimonial } from '/js/data.js'
 
 let initialIndex = 0;
 // let testi = testimonial[initialIndex];
