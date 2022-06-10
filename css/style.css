@@ -69,6 +69,11 @@
       border-radius: 100%;
       object-fit: cover;
   }
+button{
+     color: #fff;
+      border: none;
+      outline: none;
+}
 
   button {
       height: 40px;
@@ -78,9 +83,6 @@
       background: rgba(250, 151, 171, 0);
       border-radius: 50%;
       font-size: 24px;
-      color: #fff;
-      border: none;
-      outline: none;
       cursor: pointer;
       box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
       transition: all 0.3s;
